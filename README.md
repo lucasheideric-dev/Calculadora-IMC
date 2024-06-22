@@ -1,3 +1,8 @@
+# Preview da Calculadora IMC
+![image](https://github.com/lucasheideric-dev/Calculadora-IMC/assets/119465141/fe4a3ffe-25a1-4081-8314-5ac59b5d0ba4)
+
+
+
 # Calculadora de IMC
 Este é um projeto simples de uma Calculadora de IMC (Índice de Massa Corporal) desenvolvido utilizando CakePHP 4 e jQuery.
 
